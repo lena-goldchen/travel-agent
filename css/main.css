@@ -370,7 +370,7 @@ html, body {
   border: 1px solid #B7B7B7;
   background-color: #181818;
   color: #ffffff;
-  font-family: Circular Std;
+  font-family: var(--font-main);
   font-size: 16px;
   font-weight: 450;
   line-height: 1.5;
